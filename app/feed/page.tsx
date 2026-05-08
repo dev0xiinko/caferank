@@ -1,5 +1,5 @@
 import { FeedScreen } from "@/components/feed/feed-screen";
 
-export default function Home() {
+export default function FeedPage() {
   return <FeedScreen />;
 }
